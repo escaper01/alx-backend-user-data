@@ -1,1 +1,1 @@
-0x01. Basic authentication
+# Simple API 
